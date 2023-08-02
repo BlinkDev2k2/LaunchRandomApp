@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random App</string>
+    <string name="type_name_app">type name app</string>
+    <string name="txt_start_random">Start Random</string>
+    <string name="description_icon_app">Icon App</string>
+    <string name="txt_name_app">Name App</string>
+</resources>
